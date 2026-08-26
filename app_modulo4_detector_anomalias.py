@@ -1,9 +1,4 @@
-ChatGPT Plus
-Claro. Te lo dejo todo junto, ya modificado con la tercera condición. Después está dividido por las partes principales para que puedas pegarlo en Word.
-
-Código completo
 import time
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
