@@ -70,14 +70,14 @@ with tab1:
         n = st.slider("Número de lecturas (n)", 50, 5000, 500, step=50)
 
         temp_umbral = st.slider(
-            "Umbral temperatura (°C) — mayor que",
+            "Umbral temperatura (°C)",
             15,
             40,
             30
         )
 
         hum_umbral = st.slider(
-            "Umbral humedad (%) — menor que",
+            "Umbral humedad (%) ",
             20,
             80,
             40
